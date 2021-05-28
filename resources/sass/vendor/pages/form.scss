@@ -1,0 +1,7 @@
+.form-application-list {
+  min-height: 200px;
+}
+
+.form-application-list > .list-group-item:last-child {
+  border-bottom-width: 1px;
+}
